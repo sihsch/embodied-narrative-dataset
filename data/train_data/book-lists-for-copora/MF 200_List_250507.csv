@@ -1,0 +1,203 @@
+id,author,title,author_gender,publication_year,publisher,text_word_count
+A001,"Chopin, Kate",The Awakening,Female,1899,Herbert S. Stone & Co.,50720
+A002,"Conrad, Joseph",Heart of Darkness,Male,1899,Blackwood's Magazine,39355
+A003,"Conrad, Joseph",Lord Jim,Male,1900,Blackwood's Magazine,129397
+A004,"Conrad, Joseph",Secret Agent,Male,1907,Methuen & Co,90094
+A005,"Conrad, Joseph",Nostromo,Male,1904,Harper & Bros,167589
+A006,"Doolittle, Hilda",Asphodel,Female,1922,Duke University Press,89108
+A007,"Doolittle, Hilda",HERmione,Female,1927,New Directions Publishing Corporation,71432
+A008,"Doolittle, Hilda",Kora and Ka,Female,1930,Imprimerie Darantiere,17745
+A009,"Doolittle, Hilda",The Gift,Female,1943,New Directions,46678
+A010,"Faulkner, William",Soldier's Pay,Male,1926,Boni&Liveright,89271
+A011,"Faulkner, William",Mostquitoes,Male,1927,Boni&Liveright,101019
+A012,"Faulkner, William",Flags in the Dust,Male,1973,RandomHouse,129029
+A013,"Faulkner, William",The Sound and the Fury,Male,1929,Jonathan Cape & Harrison Smith,96645
+A014,"Faulkner, William",As I Lay Dying,Male,1930,Jonathan Cape & Harrison Smith,56876
+A015,"Faulkner, William",Sanctuary,Male,1931,Jonathan Cape & Harrison Smith,79356
+A016,"Faulkner, William",Light in August,Male,1932,Harrison Smith & Robert Haas,152158
+A017,"Faulkner, William",Pylon,Male,1935,Harrison Smith & Robert Haas,84914
+A018,"Faulkner, William","Absalom, Absalom!",Male,1936,RandomHouse,131542
+A019,"Faulkner, William",The Unvanquished,Male,1938,RandomHouse,69269
+A020,"Faulkner, William",The Wild Palms,Male,1939,RandomHouse,92814
+A021,"Faulkner, William",The Hamlet,Male,1940,RandomHouse,140438
+A022,"Faulkner, William","Go Down, Moses",Male,1942,RandomHouse,111949
+A023,"Faulkner, William",Intruder in the Dust,Male,1948,RandomHouse,75653
+A024,"Faulkner, William",A Fable,Male,1954,RandomHouse,159649
+A025,"Faulkner, William",The Town,Male,1957,RandomHouse,127348
+A026,"Faulkner, William",The Mansion,Male,1959,RandomHouse,156349
+A027,"Faulkner, William",The Reivers,Male,1962,RandomHouse,96697
+A028,"Fitzgerald, F.Scott",The Great Gatsby,Male,1925,Charles Scribner's Sons,48063
+A029,"Fitzgerald, F.Scott",Tender is the Night,Male,1934,Charles Scribner's Sons,109262
+A030,"Fitzgerald, F.Scott",This Side of Paradise,Male,1920,Charles Scribner's Sons,80449
+A031,"Fitzgerald, F.Scott",The Curious Case of Benjamin Button,Male,1922,N/A,9190
+A032,"Fitzgerald, F.Scott",Tales of the Jazz Age,Male,1922,Charles Scribner's Sons,85198
+A033,"Fitzgerald, F.Scott",The Beautiful and Damned,Male,1922,Charles Scribner's Sons,124687
+A034,"Fitzgerald, F.Scott",The Diamond as Big as the Ritz,Male,1922,The Smart Set,14839
+A035,"Fitzgerald, F.Scott",The Love of the Last Tycoon,Male,1941,Charles Scribner's Sons,51569
+A036,"Fitzgerald, F.Scott",Flappers and Philosophers,Male,1920,N/A,60427
+A037,"Fitzgerald, Zelda",Save Me the Waltz,Female,1932,Charles Scribner's Sons,73009
+A038,"Ford, Ford Madox",The Good Soldier,Male,1915,Lane,75222
+A039,"Ford, Ford Madox",Some Do Not...,Male,1924,Duckworth,113230
+A040,"Ford, Ford Madox",No More Parades,Male,1925,Duckworth,84508
+A041,"Ford, Ford Madox",A Man Could Stand Up,Male,1926,Duckworth,69063
+A042,"Ford, Ford Madox",Last Post: A Novel,Male,1928,Duckworth,68013
+A043,"Ford, Ford Madox",The Fifth Queen,Male,1906,Alston Rivers,75268
+A044,"Ford, Ford Madox",Privy Seal,Male,1907,Alston Rivers,60638
+A045,"Ford, Ford Madox",The Fifth Queen Crowned,Male,1908,Alston Rivers,196773
+A046,"Ford, Ford Madox",Ladies Whose Bright Eyes,Male,1911,Constable,108661
+A047,"Gissing, George ",The Private Papers of Henry Ryecroft,Male,1903,Archibald Constable,60057
+A048,"Gissing, George ",The Odd Women,Male,1893,Lawrence and Bullen,137726
+A049,"Gissing, George ",The Nether World,Male,1889,"Smith, Elder & Co.",159957
+A050,"Gissing, George ",New Grub Street ,Male,1891,"Smith, Elder & Co.",186426
+A051,"Gissing, George ",Eve's Ransom,Male,1895,Lawrence and Bullen,54486
+A052,"Gissing, George ",The Paying Guest,Male,1895,Cassell,26847
+A053,"Gissing, George ",The Whirlpool,Male,1897,Lawrence and Bullen,162707
+A054,"Hall, Radclyffe",The Well of Loneliness,Female,1928,Jonathan Cape,162353
+A055,"Hardy, Thomas",Jude the Obscure,Male,1895,N/A,143953
+A056,"Hardy, Thomas",Far from the Madding Crowd,Male,1874,N/A,139118
+A057,"Hardy, Thomas",The Return of the Native,Male,1878,N/A,141897
+A058,"Hardy, Thomas",The Mayor of Casterbridge,Male,1886,N/A,115346
+A059,"Hardy, Thomas",The Woodlanders,Male,1887,N/A,133565
+A060,"Hardy, Thomas",Tess of the d?™Urbervilles,Male,1891,N/A,147382
+A061,"Hemingway, Ernest",In Our Time,Male,1925,Scribner,3601
+A062,"Hemingway, Ernest",The Sun Also Rises,Male,1926,Scribner,67676
+A063,"Hemingway, Ernest",A Farewell to Arms,Male,1929,Scribner,88541
+A064,"Hemingway, Ernest",To Have and Have Not,Male,1937,Scribner,55098
+A065,"Hemingway, Ernest",For Whom the Bell Tolls,Male,1940,Scribner,174247
+A066,"Hemingway, Ernest",The Old Man and the Sea,Male,1952,Scribner,26588
+A067,"Hemingway, Ernest",The Torrents of Spring,Male,1926,Scribner,21072
+A068,"Hemingway, Ernest",Across the River and into the Trees,Male,1950,Scribner,67809
+A069,"Hemingway, Ernest",Islands in the Stream,Male,1970,Scribner,143315
+A070,"Hemingway, Ernest",The Garden of Eden,Male,1986,Scribner,65910
+A071,"Howells, William Dean",The Rise of Silas Lapham,Male,1885,Ticknor & Co,130842
+A072,"Howells, William Dean",A Hazard of New Fortunes,Male,1889,Harper & Brothers,163270
+A073,"Howells, William Dean",An Imperative Duty,Male,1891,D. Douglas,37498
+A074,"Howells, William Dean",Indian Summer,Male,1885,Ticknor & Co,95972
+A075,"Howells, William Dean",The Son of Royal Langbrith,Male,1904,Harper & Brothers,93403
+A076,"Howells, William Dean",A Traveler from Altruria,Male,1894,Harper & Brothers,65442
+A077,"Howells, William Dean",The Landlord at Lion's Head,Male,1897,David Douglas,115838
+A078,"Hurtson, Zora Neal",Their Eyes Were Watching God,Female,1937,J. B. Lippincott,60432
+A079,"James, Henry ",The Portrait of a Lady,Male,1881,"Houghton, Mifflin, and Company",223813
+A080,"James, Henry ",Roderick Hudson,Male,1879,Macmillan and Co.,130842
+A081,"James, Henry ",The Princess Casamassima,Male,1886,Macmillan and Co.,207777
+A082,"James, Henry ",The Wings of the Dove,Male,1902,Archibald Constable & Co,187712
+A083,"James, Henry ",The Ambassadors,Male,1903,Harper & Brothers,157202
+A084,"James, Henry ",The Golden Bowl,Male,1904,Scribner,203923
+A085,"James, Henry ",The Turn of the Screw,Male,1898,The Macmillan Company,42258
+A086,"James, Henry ",The Beast in the Jungle,Male,1903,Methuen,18548
+A087,"James, Henry ",In the Cage,Male,1898,Duckworth,34813
+A088,"James, Henry ",Daisy Miller,Male,1879,Harper & Brothers,21291
+A089,"James, Henry ",The Aspern Papers,Male,1888,Macmillan and Co.,38810
+A090,"James, Henry ",The American ,Male,1877,James R. Osgood and Company,133818
+A091,"James, Henry ",Washington Square,Male,1880,Harper & Brothers,63721
+A092,"James, Henry ",The Bostonians,Male,1886,Macmillan and Co.,161700
+A093,"Joyce, James",Dubliners,Male,1914,Grant Richards Ltd,67469
+A094,"Joyce, James",Ulysses,Male,1922,Shakespeare and Company,263678
+A095,"Joyce, James",A Portrait of the Artist as a Young Man,,1916,B. W. Huebsch,17751
+A096,"Joyce, James",Stephen Hero,Male,1944,Jonathan Cape,285247
+A097,"Kipling, Rudyard",The Light that Failed,Male,1891, Lippincott's Monthly Magazine,70852
+A098,"Lawrence, D.H.",The Rainbow,Male,1915,Methuen & Co,185889
+A099,"Lawrence, D.H.",Women in Love,Male,1920,Thomas Seltzer,180221
+A100,"Lawrence, D.H.",Sons and Lovers,Male,1913,Gerald Duckworth and Company Ltd,160304
+A101,"Lawrence, D.H.",Lady Chatterley's Lover,Male,1928,Tipografia Giuntina,117376
+A102,"Lewis, Wyndham",Tarr,Male,1908,Egoist Press,100649
+A103,"Lewis, Wyndham",Self Condemned,Male,1954,Methuen & Co Ltd,144731
+A104,"Louis Stevenson, Robert",Weir of Hermiston,Male,1896,N/A,42784
+A105,"Louis Stevenson, Robert",The Ebb-Tide,Male,1894,N/A,46852
+A106,"Mansfield, Katherine",The Garden Party and Other Storeis ,Female,N/A,N/A,57048
+A107,"Maurier, George du",Trilby,Male,1894,Harper & Brothers,100518
+A108,"Maurier, George du",English Society,Male,1897,"Osgood, McIlvaine & Co",4668
+A109,"Maurier, George du",Peter Ibbetson,Male,1892,Harper & Brothers,87731
+A110,"Maurier, George du",The Martian,Male,1898,Harper & Brothers Publishers,118413
+A111,"Moore, George",The Untilled Field,Male,1914,W. Heinemann,98865
+A112,"Moore, George",The Brook Kerith,Male,1916,The Macmillan Co.,171042
+A113,"Moore, George",Hail and Farewell,Male,1911,Colin Smythe Ltd,105877
+A114,"Pater, Walter",Imaginary Portraits,Male,1887,N/A,32538
+A115,"Pater, Walter",Marius the Epicurean,Male,1885,N/A,106571
+A116,"Pater, Walter",Gaston de Latour,Male,1896,"Macmillan & Co., Ltd",37563
+A117,"Richardson, Dorothy",Pilgrimage,Female,1915,Duckworth & Co.,55992
+A118,"Richardson, Dorothy",Backwater,Female,1916,Duckworth & Co.,54153
+A119,"Richardson, Dorothy",Dimple Hill,Female,1938,JM Dent and Cresset Press,52022
+A120,"Richardson, Dorothy","The Quakers, Past and Present",Female,1914,Constable,15100
+A121,"Richardson, Dorothy",Revolving Lights,Female,N/A,Duckworth & Co.,58664
+A122,"Richardson, Dorothy",Trap,Female,N/A,not_available,37730
+A123,"Sackville-West, Vita",The Edwardians,Female,1930,Hogarth,87661
+A124,"Sackville-West, Vita",All Passion Spent,Female,1931,Hogarth,55664
+A125,"Sackville-West, Vita",Grey Wethers: a romantic novel,Female,1923,William Heinemann Ltd,80832
+A126,"Sackville-West, Vita",Seducers in Ecuador,Female,1924,Hogarth Press,23013
+A127,"Sackville-West, Vita",Challenge,Female,1920,George H. Doran Company,85116
+A128,"Sinclair, May",Life and Death of Harriett Frean,Female,1922,Macmillan,21376
+A129,"Sinclair, May",The Three BrontÃ«s,Female,1912,Hutchinson & Co.,65788
+A130,"Sinclair, May",The Three Sisters,Female,1914,Hutchinson & Co.,95635
+A131,"Sinclair, May",The Tree of Heaven,Female,1917,Cassell & Co.,103150
+A132,"Sinclair, May",Mary Olivier: a Life,Female,1919,Cassell & Co.,118586
+A133,"Sinclair, May",The Romantic,Female,1919,Collins,44897
+A134,"Sinclair, May",Mr. Waddington of Wyck,Female,1921,Cassell & Co.,61350
+A135,"Sinclair, May",The Return of the Prodigal,Female,1914,Macmillan & Co.,97083
+A136,"Sinclair, May",The Helpmate,Female,1907,Constable & Co.,114220
+A137,"Sinclair, May",The Divine Fire,Female,1901,Constable & Co.,227378
+A138,"Sinclair, May",The Tysons (Mr. and Mrs. Nevill Tyson),Female,1898,William Blackwood & Sons,48772
+A139,"Sinclair, May",Superseded,Female,1906,Henry Holt & Co.,27697
+A140,"Sinclair, May",Anne Severn and the Fieldings,Female,1922,Hutchinson & Co.,78670
+A141,"Sinclair, May",The Judgment of Eve,Female,1907,Harper & Brothers,15283
+A142,"Sinclair, May",The Belfry,Female,1916,Macmillan & Co.,99444
+A143,"Sinclair, May",The Combined Maze,Female,1913,Hutchinson & Co.,100958
+A144,"Sinclair, May",The Creators,Female,1910,Constable & Co.,154013
+A145,"Sinclair, May",The Immortal Moment,Female,1908,"Doubleday, Page & Co.",45956
+A146,"Sinclair, May",Audrey Craven,Female,1897,William Blackwood & Sons,75674
+A147,"Sinclair, May",The Flaw in the Crystal,Female,1912,E. P. Dutton & Co.,22341
+A148,"Stein, Gertrude",Ida,Female,1941,Random House,34467
+A149,"Stein, Gertrude",Three Lives,Female,1909,The Grafton Press,86017
+A150,"von Arnim, Elizabeth",Mr Skeffington,Female,1940,"Doubleday, Doran & Co.",92586
+A151,"von Arnim, Elizabeth",The Enchanted April,Female,1922,"Macmillan & Co., Ltd",78035
+A152,"von Arnim, Elizabeth",Father,Female,1931,"Macmillan & Co., Ltd",111190
+A153,"von Arnim, Elizabeth",The Solitary Summer,Female,N/A,Macmillan & Co.,38761
+A154,"von Arnim, Elizabeth",The Caravaners,Female,1909,"Smith, Elder & Co.",87306
+A155,"von Arnim, Elizabeth",Love,Female,1925,"Macmillan & Co., Ltd",106194
+A156,"West, Nathanael",The Day of the Locust,Male,1939,Random House,48797
+A157,"West, Nathanael",Miss Lonelyhearts,Male,1933,Liveright,23366
+A158,"Wharton, Edith",The Age of Innocence,Female,1920,D. Appleton & Company,101285
+A159,"Wharton, Edith",Ethan Frome,Female,1911,Scribner's,34843
+A160,"Wharton, Edith",The Custom of the Country,Female,1913,Charles Scribner?™s Sons,139728
+A161,"Wharton, Edith",Twilight Sleep,Female,1927,D. Appleton & Company,82644
+A162,"Wharton, Edith",The Mother?™s Recompense,Female,1925,D. Appleton & Co.,75782
+A163,"Wharton, Edith",The House of Mirth,Female,1905,Charles Scribner's Sons,131491
+A164,"Wharton, Edith",The Fruit of the Tree,Female,1907,Charles Scribner's Sons,141532
+A165,"Wharton, Edith",The Glimpses of the Moon,Female,1922,D. Appleton and Company,81988
+A166,"Wharton, Edith",Summer,Female,1916,Oxford University Press,57235
+A167,"Wharton, Edith",A Son at the Front,Female,1923,Northern Illinois University Press,97077
+A168,"Wharton, Edith",The Touchstone,Female,1900,Charles Scribner's Sons,26817
+A169,"Wharton, Edith",The Reef,Female,1912,D. Appleton & Company,96198
+A170,"Wharton, Edith",Bunner Sisters,Female,1916,Charles Scribner's Sons,30556
+A171,"Wharton, Edith",The Children,Female,1928,Appleton and Company,95581
+A172,"Wharton, Edith",The Marne,Female,1918,D. Appleton and Company,18340
+A173,"Wharton, Edith",False Dawn,Female,1924,D. Appleton,18460
+A174,"Wharton, Edith",Hudson River Bracketed,Female,1929,D. Appleton and Company,170502
+A175,"Wharton, Edith",The Old Maid,Female,1929,D. Appleton and Company,23677
+A176,"Wharton, Edith",Madame de Treymes,Female,1907,Scribner,19026
+A177,"Wilde, Oscar",The Picture of Dorian Gray,Male,1890,Lippincott?™s Monthly Magazine,79023
+A178,"Wilde, Oscar",Lord Arthur Savile's Crime,Male,1891,not_available,12529
+A179,"Wilde, Oscar",The Selfish Giant,Male,1888,David Nutt,1653
+A180,"Wilde, Oscar",A House of Pomegranates,Male,1888,"James R. Osgood, McIlvaine & Co.",33050
+A181,"Wolfe, Thomas","Look Homeward, Angel",Male,1929,Charles Scribner's Sons,201786
+A182,"Wolfe, Thomas",You Can't Go Home Again,Male,1940,Harper & Row,255639
+A183,"Wolfe, Thomas",Of Time and The River,Male,1935,Charles Scribner's Sons,397785
+A184,"Wolfe, Thomas",The Web and the Rock,Male,1939,Harper & Sons,285278
+A185,"Wolfe, Thomas",The Lost Boy,Male,1965,Harper & Row,18648
+A186,"Woolf, Virginia",The Voyage Out,Female,1915,Duckworth,136014
+A187,"Woolf, Virginia",Night and Day,Female,1919,Duckworth,166124
+A188,"Woolf, Virginia",Monday or Tuesday,Female,1921,Hograth Press,4616
+A189,"Woolf, Virginia",Jacob's Room,Female,1922,Hogarth Press,54521
+A190,"Woolf, Virginia",Mrs. Dalloway,Female,1925,Hogarth Press,63401
+A191,"Woolf, Virginia",To the Lighthouse,Female,1927,Hogarth Press,69342
+A192,"Woolf, Virginia",Orlando,Female,1928,Hogarth Press,78555
+A193,"Woolf, Virginia",The Waves,Female,1931,Hogarth Press,77032
+A194,"Woolf, Virginia",Flush,Female,1933,Hogarth Press,31749
+A195,"Woolf, Virginia",The Years,Female,1937,Hogarth Press,128841
+A196,"Woolf, Virginia",Between the Acts,Female,1941,Hogarth Press,46253
+A197,"Woolf, Virginia",The Kew Gardens,Female,1919,Hogarth Press,2608
+A198,"Woolf, Virginia",The Mark on the Wall,Female,1917,Hogarth Press,3089
+A199,"Yeats, W. B.",Stories of Red Hanrahan,Male,1914,The MacMillan Company,15755
+A200,"Yeats, W. B.",Out Of The Rose,Male,1914,The MacMillan Company,2495
+A201,"Yeats, W. B.",Rosa Alchemica,Male,1914,The MacMillan Company,9824
+A202,"Yeats, W. B.","Of Costello The Proud, Of Oona The Daughter Of Dermott, And Of The Bitter Tongue",Male,1896,The Pageant,8651
