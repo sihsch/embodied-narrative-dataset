@@ -6,10 +6,10 @@ This repository provides supplementary data for the paper submission.
 
 ```
 data/
-├── train_data/
+├── training_data/
 │   ├── sensor-text/           # 1. Sensor-to-Text Data
 │   └── book-lists-for-copora/ # 3. Corpus Lists
-└── result_data/               # 2. Generation Results
+└── generated_data/               # 2. Generation Results
 ```
 
 ---
