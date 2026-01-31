@@ -20,25 +20,26 @@ data/
 
 ## 1. Sensor-to-Text Generation Data
 
-**Path:** `data/train_data/sensor-text/`
+**Path:** `data/training_data/sensor-text/`
 
 Text narratives generated from robot sensor inputs using various LLMs.
 
-| Model | Files | Path |
-|-------|-------|------|
-| Gemma2 9B | 100 | `gemma2_9b/` |
-| Gemma2 27B | 50 | `gemma2_27b/` |
-| LLaMA 3.1 8B | 100 | `llama31_8b/` |
-| Mistral 7B | 100 | `mistral_7b/` |
-| Mistral 24B | 50 | `mistral_24b/` |
+| Model | Files | Samples | Path |
+|-------|-------|---------|------|
+| Gemma2 9B | 100 | 10,000 | `gemma2_9b/` |
+| Gemma2 27B | 50 | 5,000 | `gemma2_27b/` |
+| LLaMA 3.1 8B | 100 | 10,000 | `llama31_8b/` |
+| Mistral 7B | 100 | 10,000 | `mistral_7b/` |
+| Mistral 24B | 50 | 5,000 | `mistral_24b/` |
+| **Total** | **400** | **40,000** | |
 
-Each JSON file contains: `sensor_data`, `prompt`, `target_paragraph`, and `metadata`.
+Each JSON file contains 100 samples with: `sensor_data`, `prompt`, `target_paragraph`, and `metadata`.
 
 ---
 
 ## 2. Text Generation Results
 
-**Path:** `data/result_data/`
+**Path:** `data/generated_data/`
 
 | File | Description |
 |------|-------------|
@@ -48,7 +49,7 @@ Each JSON file contains: `sensor_data`, `prompt`, `target_paragraph`, and `metad
 
 ## 3. Corpus Lists
 
-**Path:** `data/train_data/book-lists-for-copora/`
+**Path:** `data/training_data/book-lists-for-copora/`
 
 ### Data Selection and Corpus Design
 
