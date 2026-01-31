@@ -2,6 +2,10 @@
 
 This repository provides supplementary data for the paper submission.
 
+## Abstract
+
+Human narratives arise from rich experiential engagement with the world, encompassing visual and auditory perception as well as temperature, subtle air movement, kinesthetic and sensorimotor dimensions, and other forms of embodied experience. However, most existing large language model-based text generation research relies on static images or textual prompts, thereby overlooking the continuous sensorimotor states and forms of engagement characteristic of real robotic agents. To address this gap, we propose a sensor-conditioned embodied narrative intelligence framework that enables robots to generate first-person experiential narratives grounded in their own ongoing sensor states. We design a sensor encoder that projects a 12-dimensional sensor vector—comprising temperature, humidity, wind direction, 6-axis IMU measurements, and relative motion angles—into the hidden space of a language model through embedding-level fusion using a dedicated token. To train the model, we construct a large-scale synthetic sensor-text dataset of 40,000 pairs using diverse environmental and motion conditions, combined with a dual-prompt strategy that encourages grounding in sensor information rather than keyword memorization. We further introduce an evaluation framework tailored to this task, employing LLM-as-a-Judge-based alignment scoring, contradiction detection, and inference latency analysis. Experiments on both synthetic data and 1,000 real sensor logs collected from a mobile robot platform demonstrate that sensor-conditioned fine-tuning significantly improves sensor-narrative alignment and reduces physical inconsistencies compared to a prompt-only baseline, while maintaining practical inference efficiency. This work establishes a new form of embodied narrative intelligence, bridging robotic perception and language generation, and opens research directions in embodied AI, multimodal grounding, and computational storytelling.
+
 ## Dataset Structure
 
 ```
